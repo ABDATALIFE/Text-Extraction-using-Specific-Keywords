@@ -1,0 +1,24 @@
+ABCDEEEEEEEEEEEEEEEEEEEEE                                          ABCDEFDGRTAS                                                 Page
+1234567474859939493                                                                                                                1
+------------------------------------------------------------------------------------------------------------------------------------
+ABCDEASDASDASD:                                                                           ASDASDAS: ASDASFF
+                                                                                        Date:        13/05/1998 a 12/05/2003
+
+ABC  Name                      TBG Main Station         V A L U E ABC  Name                      TBG Main Station         V A L U E
+¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1234567899      ABC - EPD                         12345  DAVID FORDMAN JUNIOR                   VCAD: 30/04/1956
+         Sexo: M      Driver Type Man: H (35,00 Hrs)    Money: 1.234,00                 Job: Manager II
+     abc.ABCD:  0         ACD.Cal.Med:  0               CVA: Worker
+ 
+0001 Money                  220,00         0,00         1.234,00+ 1234 DVDVDVD                  0,00         0,00             7,26-
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+9876543211      ABC - EPD                         98765  IKER SILVA GARCIA                      VCAD: 12/06/1945
+         Sexo: M      Driver Type Man: H (35,00 Hrs)    Money: 2.345,00                 Job: Manager III
+     abc.ABCD:  2         ACD.Cal.Med:  0               CVA: Worker
+
+0001 Money                  220,00         0,00         2.345,00+ 1234 DVDVDVD                  0,00         0,00            56,77-
+5678 SOMETHING                0,00         0,00             0,00+ 9900 Case GF                  0,00         0,00         4.839,40
+
+
+
